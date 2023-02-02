@@ -12,7 +12,7 @@ import {
 } from "firebase/firestore";
 import Message from "../Components/message";
 import { BsTrash2Fill } from "react-icons/bs";
-import { AiFillEdit } from "react-icons/Ai";
+import { AiFillEdit } from "react-icons/ai";
 import Link from "next/link";
 
 export default function Dashboard() {
